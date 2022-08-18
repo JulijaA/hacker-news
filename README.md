@@ -6,4 +6,5 @@ news.
 
 ## Screenshot
 
-![hcn](https://user-images.githubusercontent.com/44105016/185370148-1f4aff81-4f49-4b24-9053-c4e584143da8.png)
+![Screenshot 2022-08-18 120932](https://user-images.githubusercontent.com/44105016/185370531-ece926d4-04c4-4d59-9d86-b1053c907b72.png)
+
