@@ -1,0 +1,4 @@
+export const HANDLE_LOADING = "HANDLE_LOADING";
+export const GET_STORIES = "GET_STORIES";
+export const HANDLE_PAGE = "HANDLE_PAGE";
+export const HANDLE_SEARCH = "HANDLE_SEARCH";

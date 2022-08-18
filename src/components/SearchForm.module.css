@@ -1,0 +1,25 @@
+.search {
+  width: 90vw;
+  max-width: 500px;
+  margin: 0 auto;
+  padding-top: 2rem;
+  margin-left: 3rem;
+  display: flex;
+  align-items: center;
+  padding-bottom: 1.5rem;
+}
+.input {
+  width: 100%;
+  border: 1px solid rgb(221, 217, 217);
+  border-radius: 5px;
+  max-width: 600px;
+  padding: 1rem;
+  font-size: 1rem;
+  color: black;
+  letter-spacing: 0.1rem;
+}
+.icon {
+  font-size: 2rem;
+  color: #ff7416;
+  margin-right: 0.5rem;
+}
