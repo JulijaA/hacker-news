@@ -6,4 +6,4 @@ news.
 
 ## Screenshot
 
-![](![hcn](https://user-images.githubusercontent.com/44105016/185370148-1f4aff81-4f49-4b24-9053-c4e584143da8.png)
+(![hcn](https://user-images.githubusercontent.com/44105016/185370148-1f4aff81-4f49-4b24-9053-c4e584143da8.png)
